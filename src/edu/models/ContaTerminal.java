@@ -1,19 +1,19 @@
 package edu.models;
 
 
-public class BankAccountModel {
-    private int number;
+public class ContaTerminal {
+    private int accoutNumber;
     private String agency;
     private String clientName;
     private float balance;
 
-    // Getter and Setter to number
-    public int getNumber() {
-        return number;
+    // Getter and Setter to accoutNumber
+    public int getAccoutNumber() {
+        return accoutNumber;
     }
 
-    public void setNumber(int number) {
-        this.number = number;
+    public void setAccoutNumber(int accoutNumber) {
+        this.accoutNumber = accoutNumber;
     }
 
     // Getter and Setter to agency
