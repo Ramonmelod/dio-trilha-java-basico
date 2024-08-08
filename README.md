@@ -1,18 +1,13 @@
-## Getting Started
+## Bank account CLI for the DIO java activity
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<div style="display: flex; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java logo" width="100" height="auto">
+</div>
 
-## Folder Structure
+### Informations:
 
-The workspace contains two folders by default, where:
+- Project implemented to the challenge : [DIO - Trilha Java Básico ]("https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe")
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Description:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- It is just a basic CLI using Scanner
