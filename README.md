@@ -6,8 +6,7 @@
 
 ### Informations:
 
-- Project implemented to the challenge : [DIO - Trilha Java Básico ]("https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe")
-
+- Project implemented to the challenge : [DIO - Trilha Java Básico](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 ### Description:
 
 - It is just a basic CLI using Scanner
